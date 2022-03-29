@@ -7,7 +7,6 @@
 print("I just woke up...")
 ```
 
-![](https://i07.fotocdn.net/s126/93111459069a3a6e/user_xl/2861921461.jpg)
 
 
 
