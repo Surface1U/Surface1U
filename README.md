@@ -1,8 +1,8 @@
 ## Что насчёт?
-<h3 align="center">i can't </h3>
+<h3 align="center">So do i </h3>
 
 ```python
-print("I'm stil sleeping")
+print("I'M A BLOWFISH! BLOWFISH! YEEEAAAH! BLOWFISHIN' THIS UP!")
 ```
 
 
